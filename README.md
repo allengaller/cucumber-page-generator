@@ -1,4 +1,7 @@
-cucumber-homepage
-=================
+# Cucumber - Fancy Web Page Generator #
 
-Fancy Homepage Generator
+About
+-----
+
+Feature
+-------
